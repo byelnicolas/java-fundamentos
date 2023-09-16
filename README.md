@@ -1,0 +1,2 @@
+# Programa de Exemplos dos Fundamentos do Java
+O "Programa de Exemplos dos Fundamentos do Java" é uma ferramenta educacional projetada para fornecer exemplos práticos e didáticos dos conceitos fundamentais da linguagem de programação Java. Este programa é voltado para iniciantes que desejam aprender Java ou para desenvolvedores que desejam relembrar e aprimorar seus conhecimentos sobre os princípios essenciais da linguagem.
